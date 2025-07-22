@@ -46,7 +46,7 @@ Welcome to the **AI-Driven Log Analyzer Suite**—a microservices-based toolkit 
 
 ### 1. log-producer-service
 
-* **Tech**: Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Logback JSON Encoder
+* **Tech**: Java 21, Spring Boot, Spring Data JPA, PostgreSQL
 * **Role**: Simulates application events with a 64/10/20/6 ratio (INFO/WARN/ERROR/FATAL).
 * **Endpoints**:
 
