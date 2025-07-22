@@ -57,7 +57,7 @@ Welcome to the **AI-Driven Log Analyzer Suite**—a microservices-based toolkit 
 
 ### 2. log-analyzer-service
 
-* **Tech**: Java 21, Spring Boot, Spring Cloud OpenFeign, Spring AI, Ollama-Mistral
+* **Tech**: Java 21, Spring Boot, Spring Cloud OpenFeign, Spring AI, Ollama-Llama3.2
 * **Role**: Aggregates and analyzes logs via LLM; exposes human-friendly summaries.
 * **Endpoints**:
 
